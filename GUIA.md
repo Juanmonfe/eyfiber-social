@@ -6,24 +6,53 @@ Se puede editar cuando se quiera: lo que pongas aquí es lo que Claude usará.
 ## Quiénes somos
 
 Ey.fiber es un operador de telecomunicaciones cercano, con base en Albacete y servicio en
-Albacete, Cuenca, Castellón y Valencia (más de 50 pueblos, entre ellos Ledaña, Villamalea,
-Fuentealbilla, Quintanar del Rey, Tarazona de la Mancha, Villarrobledo y Hellín).
+69 localidades de Albacete, Cuenca, Castellón y Valencia (entre ellas Ledaña, Villamalea,
+Fuentealbilla, Quintanar del Rey, Tarazona de la Mancha, Villarrobledo y Hellín) y en el
+resto de España. Más de 1.500 clientes. Equipo cercano en Albacete, Fuentealbilla y Ledaña.
+En Ledaña la red de fibra es propia: la instalamos, la mantenemos y atendemos nosotros.
 
 Lema: «Internet que funciona. Personas que responden.»
 
 ## Servicios (solo hablar de estos)
 
-- **Fibra simétrica** de hasta 1 Gb, con router e instalación incluidos.
-- **Móvil**: líneas con datos acumulables y la app **Mi línea**.
+- **Fibra simétrica** de hasta 1 Gb, con router e instalación incluidos, IP pública (sin CG-NAT)
+  en las zonas de red propia. Bajo consulta, fibra de 2, 5 y 10 Gb.
+- **Móvil**: 5G con cobertura Orange, VoLTE, eSIM gratis, gigas acumulables, llamadas
+  ilimitadas y sin permanencia.
 - **App Mi línea** (gratis, Android e iPhone): ver los gigas que quedan, activar roaming y buzón,
   bloquear la línea si pierdes el móvil, contratar eSIM de viaje. Web: eyfiber.es/mi-linea
 - **eSIM de viaje**: datos en el extranjero desde la app, sin cambiar de tarjeta SIM; se paga en la factura.
-- **TV** básica y premium.
-- **Alarmas y videovigilancia**.
-- **Empresas (EyFiber Empresas)**: conexión, IP fija, redes MikroTik, VPN, seguridad y
-  videovigilancia, sobre todo para el sector agroalimentario y polígonos (Campollano, Romica).
-- **Hoteles y alojamientos (EyStay)**: wifi y tecnología para hoteles, casas rurales y
-  apartamentos turísticos.
+- **TV** con +Media TV: básica (160 canales, TDT y temáticos) y premium (más de 180 canales,
+  con cine y LALIGA Hypermotion). Tele, móvil o tablet. Sin permanencia.
+- **Luz**: tarifa de precio fijo todo el día, energía 100 % renovable, sin permanencia, sin
+  cambiar de contador. Revisamos tu factura gratis.
+- **Alarmas y videovigilancia** conectadas, con avisos en el móvil e instalación profesional.
+- **Empresas (EyFiber Empresas)**: fibra y fibra dedicada con IP pública, respaldo y Starlink
+  para zonas remotas, VPN y SD-WAN entre sedes, telefonía IP y centralita en la nube,
+  ciberseguridad, videovigilancia y control de accesos, equipos informáticos, consultoría y
+  auditorías IT, soporte y mantenimiento. Estudio gratuito sin compromiso. Sobre todo sector
+  agroalimentario y polígonos (Campollano, Romica).
+- **Hoteles y alojamientos (Hotel & Hospitality y EyStay)**: fibra hasta la habitación
+  (GPON/FTTR) y wifi gestionado, TV e IPTV, telefonía IP, accesos sin llaves y check-in,
+  domótica y ahorro energético, todo con un solo soporte. Estudio gratuito.
+- **Distribuidores**: tiendas, instaladores, comerciales, gestorías, inmobiliarias y
+  asociaciones pueden vender nuestros servicios con comisión. eyfiber.es/distribuidores
+- **Crea tu marca**: operadora con marca propia, llave en mano (fibra, móvil, TV, alarmas,
+  panel de gestión, facturación y soporte). eyfiber.es/crea-tu-marca
+
+## La web (eyfiber.es)
+
+Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como llamada a la acción:
+- Comprobar la cobertura escribiendo calle, número y pueblo en la portada: gratis, en
+  10 segundos y sin dejar datos.
+- Calcular la tarifa a medida (fibra, móvil y TV): eyfiber.es/calcula-tu-tarifa
+- Ver los pueblos con cobertura: eyfiber.es/cobertura-fibra-pueblos
+- Área de clientes (menú «Clientes») y Mi línea móvil para ver consumos y gestionar líneas.
+- Noticias y consejos: eyfiber.es/noticias
+- Páginas de servicio: /fibra, /tarifas-moviles, /tv, /energia, /alarmas, /empresas,
+  /wifi-hoteles-apartamentos-turisticos, /roaming
+- También en valenciano.
+- Capturas de la web en `capturas/` por si sirven para una imagen.
 
 ## Ofertas y precios vigentes
 
@@ -52,9 +81,9 @@ Lema: «Internet que funciona. Personas que responden.»
 
 | Día       | Público                 | Temas posibles                                                     |
 |-----------|-------------------------|--------------------------------------------------------------------|
-| Lunes     | Para tu casa            | Fibra, móvil, app Mi línea, TV, alarmas, consejos de wifi en casa  |
-| Miércoles | Para tu empresa         | EyFiber Empresas, agroalimentario, polígonos, seguridad, IP fija   |
-| Viernes   | Para tu alojamiento / Cerca de ti | EyStay, casas rurales, eSIM de viaje, pueblos con cobertura, el equipo |
+| Lunes     | Para tu casa            | Fibra, móvil, app Mi línea, TV, luz, alarmas, consejos de wifi, calculadora de tarifas |
+| Miércoles | Para tu empresa         | EyFiber Empresas, agroalimentario, polígonos, Starlink, ciberseguridad, distribuidores, crea tu marca |
+| Viernes   | Para tu alojamiento / Cerca de ti | EyStay, casas rurales, eSIM de viaje, pueblos con cobertura, buscador de cobertura, noticias de la web |
 
 ## Formato de cada publicación
 
