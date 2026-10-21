@@ -66,8 +66,29 @@ Lema: «Internet que funciona. Personas que responden.»
   - `--titulo`: máximo 9 palabras, en minúsculas salvo la primera letra, con punto final.
   - `--sub`: una o dos frases, máximo 22 palabras.
   - `--semilla`: un número distinto cada vez (por ejemplo el día del año).
-- Si el tema es la app Mi línea o la eSIM de viaje, se puede usar una imagen de `propias/`
-  en lugar de generar una (las cuadradas de 1080x1080).
+- En lugar de generar una imagen se puede usar una de `propias/` (ver la tabla siguiente).
+
+## Imágenes propias (carpeta `propias/`)
+
+| Archivo | Tema | Precios | Foto IA | Estado |
+|---------|------|---------|---------|--------|
+| mi-linea-cuadrada-1080x1080.png | App Mi línea | No | No | Usable |
+| esim-viaje-cuadrada-1080x1080-v2.png | eSIM de viaje desde la app | No | No | Usable |
+| esim-internacional.png | eSIM internacional, más de 190 países | No | Sí | Usable |
+| ledana.png | Fibra óptica en Ledaña | No | Sí | Usable |
+| fibra-hogar.png | Fibra hogar 600 Mb y 1000 Mb | Sí | Sí | Pendiente de confirmar precios |
+| tarifas-movil.png | Tarifas móviles 5, 30, 60 y 100 GB | Sí | Sí | Pendiente de confirmar precios |
+| tv.png | TV Básica y TV Avanzada | Sí | Sí | No usar todavía |
+
+Reglas para estas imágenes:
+- Solo se usan las que están como «Usable». Una imagen con precios pasa a usable cuando
+  sus precios aparecen en «Ofertas y precios vigentes».
+- El texto de una publicación con imagen de tarifas solo puede mencionar los precios que
+  salen en esa imagen, escritos igual.
+- Si la columna «Foto IA» dice «Sí», en Instagram se marca `isAiGenerated: true`.
+- La misma imagen propia no se repite antes de 4 semanas (ver `publicados.md`).
+- Las del viernes «Cerca de ti» pueden usar `ledana.png`; las de eSIM encajan antes de puentes
+  y vacaciones.
 
 ## Lo que nunca se hace
 
