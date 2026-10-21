@@ -48,7 +48,9 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 - Calcular la tarifa a medida (fibra, móvil y TV): eyfiber.es/calcula-tu-tarifa
 - Ver los pueblos con cobertura: eyfiber.es/cobertura-fibra-pueblos
 - Área de clientes (menú «Clientes») y Mi línea móvil para ver consumos y gestionar líneas.
-- Noticias y consejos: eyfiber.es/noticias
+- Noticias y consejos (sección nueva): eyfiber.es/noticias. Lanzamientos, servicios nuevos,
+  consejos y novedades de Ey.fiber. Ya publicadas: «Wifi en casa: 2,4 GHz o 5 GHz, velocidades
+  reales y cómo llevar la señal a toda la casa» (21/10/2026) y «Nueva app Mi línea» (17/10/2026).
 - Páginas de servicio: /fibra, /tarifas-moviles, /tv, /energia, /alarmas, /empresas,
   /wifi-hoteles-apartamentos-turisticos, /roaming
 - También en valenciano.
@@ -89,6 +91,15 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 - Sin exageraciones ni promesas técnicas que no podamos garantizar («nunca se cae», «la más rápida»).
 - Sin tecnicismos salvo en publicaciones para empresas, y aun así explicados.
 - Nada de política, religión, fútbol ni temas polémicos. No mencionar a la competencia.
+
+## Noticias nuevas en la web
+
+Cada semana, antes de elegir temas, mira eyfiber.es/noticias (con WebFetch). Si hay una
+noticia publicada en los últimos 14 días que todavía no aparezca en `publicados.md`, dedícale
+una de las publicaciones de la semana, en el día que mejor encaje con su público: resume en
+dos o tres frases lo útil para el lector, con tus propias palabras, y termina con
+«Lo tienes entero en eyfiber.es/noticias». En consejos de wifi, router o cobertura en casa,
+también se puede cerrar invitando a leer la noticia del wifi.
 
 ## Calendario semanal
 
