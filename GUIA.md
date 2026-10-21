@@ -1,7 +1,7 @@
 # Guía de publicaciones de EYFiber
 
 Esta guía la usa la tarea semanal que crea las publicaciones de Facebook e Instagram.
-Juan Francisco puede editarla cuando quiera: lo que pongas aquí es lo que Claude usará.
+Se puede editar cuando se quiera: lo que pongas aquí es lo que Claude usará.
 
 ## Quiénes somos
 
@@ -27,7 +27,7 @@ Lema: «Internet que funciona. Personas que responden.»
 
 ## Ofertas y precios vigentes
 
-<!-- Juan Francisco: escribe aquí las ofertas que quieras anunciar, con fecha de fin.
+<!-- Escribe aquí las ofertas que quieras anunciar, con fecha de fin.
      Si esta sección está vacía, las publicaciones NO mencionan precios ni promociones. -->
 
 (ninguna)
@@ -75,23 +75,25 @@ Lema: «Internet que funciona. Personas que responden.»
 | mi-linea-cuadrada-1080x1080.png | App Mi línea | No | No | Usable |
 | esim-viaje-cuadrada-1080x1080-v2.png | eSIM de viaje desde la app | No | No | Usable |
 | esim-internacional.png | eSIM internacional, más de 190 países | No | Sí | Usable |
-| ledana.png | Fibra óptica en Ledaña | No | Sí | Usable |
+| ledana.png | Fibra óptica en Ledaña | No | Sí | No usar todavía |
 | fibra-hogar.png | Fibra hogar 600 Mb y 1000 Mb | Sí | Sí | Pendiente de confirmar precios |
 | tarifas-movil.png | Tarifas móviles 5, 30, 60 y 100 GB | Sí | Sí | Pendiente de confirmar precios |
-| tv.png | TV Básica y TV Avanzada | Sí | Sí | No usar todavía |
+| tv.png | TV Básica y TV Avanzada | Sí | Sí | No usar todavía (en edición) |
 
 Reglas para estas imágenes:
-- Solo se usan las que están como «Usable». Una imagen con precios pasa a usable cuando
-  sus precios aparecen en «Ofertas y precios vigentes».
+- Solo se usan las que están como «Usable». Las marcadas «No usar todavía» no se usan bajo
+  ningún concepto hasta que cambie su estado aquí. Una imagen con precios pasa a usable
+  cuando sus precios aparecen en «Ofertas y precios vigentes».
 - El texto de una publicación con imagen de tarifas solo puede mencionar los precios que
   salen en esa imagen, escritos igual.
 - Si la columna «Foto IA» dice «Sí», en Instagram se marca `isAiGenerated: true`.
 - La misma imagen propia no se repite antes de 4 semanas (ver `publicados.md`).
-- Las del viernes «Cerca de ti» pueden usar `ledana.png`; las de eSIM encajan antes de puentes
-  y vacaciones.
+- Las de eSIM encajan antes de puentes y vacaciones.
 
 ## Lo que nunca se hace
 
+- Poner el nombre del dueño ni de ninguna persona del equipo, ni en el texto, ni en la imagen,
+  ni en ningún archivo de este repositorio. Se habla siempre como «Ey.fiber» o «nosotros».
 - Inventar precios, promociones, velocidades, plazos de instalación o coberturas concretas.
 - Usar datos de clientes reales o nombrar clientes sin permiso.
 - Repetir el tema o el titular de las últimas 6 publicaciones (ver `publicados.md`).
