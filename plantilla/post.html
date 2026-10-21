@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --noche: #16163F;   /* fondo: azul noche de la web */
+    --azul-ey: #0060B8; /* azul del logo */
+    --naranja: #FF8000; /* naranja del logo: la fibra */
+    --niebla: #F2F5FE;
+    --blanco: #FFFFFF;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; }
+  body {
+    background: var(--noche);
+    font-family: "Inter", sans-serif;
+    color: var(--blanco);
+    position: relative;
+    overflow: hidden;
+  }
+  /* Grano suave para que el azul no quede plano */
+  .grano {
+    position: absolute; inset: 0; opacity: .07; mix-blend-mode: screen;
+    background-image: radial-gradient(rgba(255,255,255,.9) 1px, transparent 1px);
+    background-size: 6px 6px;
+  }
+  .contenido {
+    position: absolute; left: 96px; right: 96px; top: 120px;
+  }
+  .publico {
+    display: inline-block;
+    font: 600 30px/1 "Inter", sans-serif;
+    color: var(--noche);
+    background: var(--naranja);
+    padding: 14px 24px 15px;
+    border-radius: 999px;
+    margin-bottom: 56px;
+  }
+  h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    line-height: 1.04;
+    color: var(--blanco);
+    max-width: 880px;
+  }
+  .sub {
+    margin-top: 44px;
+    font: 400 38px/1.4 "Inter", sans-serif;
+    color: var(--niebla);
+    opacity: .88;
+    max-width: 800px;
+  }
+  svg.fibra { position: absolute; inset: 0; pointer-events: none; }
+  .pie {
+    position: absolute; left: 0; right: 0; bottom: 0; height: 168px;
+    background: var(--blanco);
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 96px;
+  }
+  .pie img { height: 74px; }
+  .marca { font: 700 64px/1 "Poppins", sans-serif; letter-spacing: -0.02em; }
+  .marca .ey { color: var(--azul-ey); }
+  .marca .fiber { color: var(--naranja); }
+  .contacto { text-align: right; color: var(--noche); }
+  .contacto .web { font: 700 34px/1.1 "Poppins", sans-serif; }
+  .contacto .tel { font: 500 28px/1.3 "Inter", sans-serif; opacity: .75; margin-top: 6px; }
+</style>
+</head>
+<body>
+  <div class="grano"></div>
+  <svg class="fibra" width="1080" height="1350" viewBox="0 0 1080 1350">
+    <defs>
+      <filter id="brillo" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="9" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <radialGradient id="punto">
+        <stop offset="0" stop-color="#FFFFFF"/>
+        <stop offset=".35" stop-color="#FFB366"/>
+        <stop offset="1" stop-color="#FF8000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <path id="hilo-azul" fill="none" stroke="#0060B8" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+    <path id="hilo" fill="none" stroke="#FF8000" stroke-width="6" stroke-linecap="round" filter="url(#brillo)"/>
+    <circle id="luz" r="46" fill="url(#punto)"/>
+  </svg>
+  <div class="contenido">
+    <div class="publico" id="publico"></div>
+    <h1 id="titulo"></h1>
+    <p class="sub" id="sub"></p>
+  </div>
+  <div class="pie">
+    <div id="logo"></div>
+    <div class="contacto">
+      <div class="web">eyfiber.es</div>
+      <div class="tel">WhatsApp 621 14 61 13</div>
+    </div>
+  </div>
+<script>
+  // Parámetros: window.POST = {publico, titulo, sub, semilla, logo}
+  const P = window.POST || {};
+  document.getElementById('publico').textContent = P.publico || '';
+  document.getElementById('titulo').textContent = P.titulo || '';
+  document.getElementById('sub').textContent = P.sub || '';
+  const logo = document.getElementById('logo');
+  if (P.logo) { logo.innerHTML = '<img alt="Ey.fiber">'; logo.firstChild.src = P.logo; }
+  else { logo.innerHTML = '<span class="marca"><span class="ey">Ey</span><span class="fiber">.fiber</span></span>'; }
+
+  // El titular se ajusta al espacio: empieza grande y baja hasta que cabe.
+  const h1 = document.getElementById('titulo');
+  const sub = document.getElementById('sub');
+  let size = 112;
+  h1.style.fontSize = size + 'px';
+  const limite = 1350 - 168 - 300; // deja sitio para el hilo de fibra
+  while (size > 58 && sub.getBoundingClientRect().bottom > limite) {
+    size -= 4; h1.style.fontSize = size + 'px';
+  }
+
+  // El hilo de fibra: entra por la izquierda bajo el texto, baja y termina en un punto de luz.
+  // La semilla varía la curva para que cada publicación sea distinta.
+  let s = (P.semilla || 7) * 9301 + 49297;
+  const rnd = () => { s = (s * 9301 + 49297) % 233280; return s / 233280; };
+  const yTexto = sub.getBoundingClientRect().bottom + 70;
+  const yFin = 1350 - 168 - 90;
+  const xCodo = 380 + rnd() * 320;
+  const xFin = xCodo + 140 + rnd() * (900 - xCodo - 140);
+  // Si hay poco hueco vertical, el codo se hace más cerrado en vez de romperse.
+  const yMed = Math.min(yTexto + 20 + rnd() * 60, yFin - 60);
+  const r = Math.max(18, Math.min(70 + rnd() * 50, (yFin - yMed) / 2));
+  const camino = (xFinal) => `M -20 ${yMed} H ${xCodo - r} Q ${xCodo} ${yMed} ${xCodo} ${yMed + r} V ${yFin - r} Q ${xCodo} ${yFin} ${xCodo + r} ${yFin} H ${xFinal}`;
+  document.getElementById('hilo').setAttribute('d', camino(xFin));
+  const azul = document.getElementById('hilo-azul');
+  azul.setAttribute('d', camino(Math.max(xCodo + r + 20, xFin - 120)));
+  azul.setAttribute('transform', 'translate(-24 24)');
+  const luz = document.getElementById('luz');
+  luz.setAttribute('cx', xFin); luz.setAttribute('cy', yFin);
+  document.body.dataset.listo = '1';
+</script>
+</body>
+</html>
