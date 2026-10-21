@@ -24,6 +24,7 @@ Lema: «Internet que funciona. Personas que responden.»
   videovigilancia, sobre todo para el sector agroalimentario y polígonos (Campollano, Romica).
 - **Hoteles y alojamientos (EyStay)**: wifi y tecnología para hoteles, casas rurales y
   apartamentos turísticos.
+  - **publicaciones por ejemplo, dia del internet, del beso, del amor, del cancer etc, busca fechas que podamos uasar, para crear publicaciones
 
 ## Ofertas y precios vigentes
 
