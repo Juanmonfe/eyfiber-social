@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<style>
+  :root {
+    --noche: #16163F;
+    --azul-ey: #0060B8;
+    --naranja: #FF8000;
+    --niebla: #F2F5FE;
+    --blanco: #FFFFFF;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; }
+  body { background: var(--noche); font-family: "Inter", sans-serif; color: var(--blanco); position: relative; overflow: hidden; }
+  .grano { position: absolute; inset: 0; opacity: .07; mix-blend-mode: screen;
+    background-image: radial-gradient(rgba(255,255,255,.9) 1px, transparent 1px); background-size: 6px 6px; }
+  .contenido { position: absolute; left: 96px; right: 96px; top: 104px; }
+  .publico { display: inline-block; font: 600 30px/1 "Inter", sans-serif; color: var(--noche);
+    background: var(--naranja); padding: 14px 24px 15px; border-radius: 999px; margin-bottom: 44px; }
+  h1 { font: 700 104px/1.02 "Poppins", sans-serif; letter-spacing: -0.03em; }
+  .sub { margin-top: 30px; font: 400 36px/1.4 "Inter", sans-serif; color: var(--niebla); opacity: .9; max-width: 860px; }
+
+  svg.fibra { position: absolute; inset: 0; }
+
+  /* Portátil */
+  .portatil { position: absolute; left: 70px; top: 610px; width: 700px; }
+  .pantalla { background: #0b0b24; border-radius: 22px 22px 6px 6px; padding: 16px 16px 20px;
+    box-shadow: 0 30px 60px rgba(0,0,0,.45), inset 0 0 0 2px rgba(255,255,255,.08); }
+  .pantalla img { display: block; width: 100%; border-radius: 6px; }
+  .base { height: 26px; margin: 0 -44px; background: linear-gradient(#d9dbe6, #a9acbd);
+    border-radius: 0 0 26px 26px; position: relative; box-shadow: 0 18px 30px rgba(0,0,0,.35); }
+  .base::before { content: ""; position: absolute; left: 50%; top: 0; width: 120px; height: 9px;
+    transform: translateX(-50%); background: #8f92a6; border-radius: 0 0 10px 10px; }
+
+  /* Móvil */
+  .movil { position: absolute; left: 708px; top: 530px; width: 292px; height: 600px;
+    background: #0b0b24; border-radius: 46px; padding: 12px;
+    box-shadow: 0 34px 70px rgba(0,0,0,.55), inset 0 0 0 2px rgba(255,255,255,.12); }
+  .movil .vista { width: 100%; height: 100%; border-radius: 35px; overflow: hidden; background: #fff; }
+  .movil img { display: block; width: 100%; }
+
+  .pie { position: absolute; left: 0; right: 0; bottom: 0; height: 168px; background: var(--blanco);
+    display: flex; align-items: center; justify-content: space-between; padding: 0 96px; }
+  .marca { font: 700 64px/1 "Poppins", sans-serif; letter-spacing: -0.02em; }
+  .marca .ey { color: var(--azul-ey); } .marca .fiber { color: var(--naranja); }
+  .pie img { height: 74px; }
+  .contacto { text-align: right; color: var(--noche); }
+  .contacto .web { font: 700 34px/1.1 "Poppins", sans-serif; }
+  .contacto .tel { font: 500 28px/1.3 "Inter", sans-serif; opacity: .75; margin-top: 6px; }
+</style>
+</head>
+<body>
+  <div class="grano"></div>
+  <!-- El hilo de fibra entra por la izquierda, pasa por detrás de los equipos y termina en luz junto al móvil -->
+  <svg class="fibra" width="1080" height="1350" viewBox="0 0 1080 1350">
+    <defs>
+      <filter id="brillo" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="9" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <radialGradient id="punto">
+        <stop offset="0" stop-color="#FFFFFF"/><stop offset=".35" stop-color="#FFB366"/>
+        <stop offset="1" stop-color="#FF8000" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <path d="M -20 530 H 560 Q 640 530 640 610 V 720" fill="none" stroke="#0060B8" stroke-width="3" stroke-linecap="round" transform="translate(-24 24)"/>
+    <path d="M -20 530 H 600 Q 680 530 680 570" fill="none" stroke="#FF8000" stroke-width="6" stroke-linecap="round" filter="url(#brillo)"/>
+    <circle cx="690" cy="582" r="54" fill="url(#punto)"/>
+  </svg>
+
+  <div class="contenido">
+    <div class="publico">Web nueva</div>
+    <h1>Estrenamos web.</h1>
+    <p class="sub">Comprueba tu cobertura en 10 segundos, calcula tu tarifa y gestiona tu línea desde eyfiber.es.</p>
+  </div>
+
+  <div class="portatil">
+    <div class="pantalla"><img src="../capturas/web-inicio-escritorio.png" alt=""></div>
+    <div class="base"></div>
+  </div>
+  <div class="movil"><div class="vista"><img src="../capturas/web-inicio-movil.png" alt=""></div></div>
+
+  <div class="pie">
+    <div id="logo"><span class="marca"><span class="ey">Ey</span><span class="fiber">.fiber</span></span></div>
+    <div class="contacto">
+      <div class="web">eyfiber.es</div>
+      <div class="tel">WhatsApp 621 14 61 13</div>
+    </div>
+  </div>
+  <script>
+    // Si existe el logo real en assets/, lo usa en el pie.
+    const img = new Image();
+    img.onload = () => { const l = document.getElementById('logo'); l.innerHTML = ''; l.appendChild(img); document.body.dataset.listo = '1'; };
+    img.onerror = () => { document.body.dataset.listo = '1'; };
+    img.src = '../assets/logo.png';
+  </script>
+</body>
+</html>
