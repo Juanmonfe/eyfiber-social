@@ -3,8 +3,8 @@
 Publicaciones automáticas de Ey.fiber en Facebook e Instagram.
 
 Cada domingo por la tarde, una tarea programada de Claude prepara las publicaciones de la
-semana (lunes, miércoles y viernes) y las programa en Metricool. A la hora de cada una,
-Metricool envía un aviso al móvil para confirmarla.
+semana (lunes, miércoles y viernes) y las programa en Metricool. Se publican solas a su
+hora; hasta entonces se pueden editar o borrar desde el calendario de Metricool.
 
 ## Qué hay aquí
 
