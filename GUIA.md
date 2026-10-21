@@ -57,9 +57,22 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 ## Ofertas y precios vigentes
 
 <!-- Escribe aquí las ofertas que quieras anunciar, con fecha de fin.
-     Si esta sección está vacía, las publicaciones NO mencionan precios ni promociones. -->
+     Si esta sección está vacía, las publicaciones NO mencionan precios ni promociones.
+     Solo se pueden anunciar las ofertas de esta lista, y solo hasta su fecha de fin. -->
 
-(ninguna)
+### Promo otoño: móvil con datos ilimitados a 9,90 €/mes
+
+- **Fin:** 21/12/2026, cuando empieza el invierno. A partir del 22/12 no se anuncia.
+- **Qué es:** línea móvil con datos y llamadas ilimitados, 5G, VoLTE y eSIM gratis, cobertura
+  Orange y sin permanencia, a 9,90 €/mes IVA incluido. Solo para nuevos clientes.
+- **El texto debe decir siempre:** «IVA incluido», «solo para nuevos clientes» y «consulta las
+  condiciones en eyfiber.es/tarifas-moviles». Se puede decir «hasta el 21 de diciembre».
+  No mencionar otros precios de móvil.
+- **Imagen:** generada con `render.py` (público «Para tu casa»); el titular puede llevar el
+  precio de 9,90 €. No usar `propias/tarifas-movil.png`, que tiene otros precios.
+- **Frecuencia:** la primera vez, en el primer hueco libre del calendario; después, una vez
+  cada dos semanas como máximo, con un enfoque distinto cada vez (teletrabajo, chavales,
+  viajes por España, segunda línea…).
 
 ## Contacto (usar tal cual)
 
