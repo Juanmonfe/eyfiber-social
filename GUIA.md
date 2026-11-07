@@ -85,7 +85,8 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 
 ## Tono
 
-- De tú, cercano y directo. Frases cortas. Como habla alguien del pueblo que sabe de redes.
+- De tú, cercano y directo. Frases cortas. Como habla alguien del pueblo que sabe de redes:
+  con palabras manchegas y de pueblo (ver «Habla de Albacete y La Manchuela»).
 - Hablar de situaciones reales: teletrabajo, la cooperativa, la casa rural en temporada, los
   chavales jugando online, el campo, la feria del pueblo.
 - Sin exageraciones ni promesas técnicas que no podamos garantizar («nunca se cae», «la más rápida»).
@@ -94,13 +95,35 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 
 ## Habla de Albacete y La Manchuela
 
-Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
-- Como mucho una o dos por publicación, y no en todas: más o menos en una de cada dos.
+Desde noviembre de 2026 queremos que las publicaciones suenen más manchegas, más de pueblo:
+como habla la gente de aquí en la placeta o en el bar, con gracia y con cariño.
+Cómo usarlas:
+- En las publicaciones para casa, alojamiento y cerca de ti: entre 4 y 8 palabras o
+  expresiones de aquí por publicación, repartidas con naturalidad por todo el texto
+  (que no parezca una lista metida a la fuerza). Ejemplo de referencia: la publicación del
+  buscador de cobertura que hay más abajo.
+- En las publicaciones para empresas: 1 a 3, de las suaves («Ea», «Miaja», «En un momentico»,
+  «Sin pitostes»), sin quitar seriedad a lo técnico.
 - Que se entienda igual aunque el lector no conozca la palabra, por el contexto.
 - Siempre con cariño, nunca para reírse de cómo habla nadie. No escribir la pronunciación
-  a propósito («ejque», «frejca», «cansao») salvo en frases hechas como «No ni ná».
-- En las publicaciones para empresas, mejor ninguna o solo una suave («Ea», «Miaja»).
-- La palabra no sustituye a los datos: el texto sigue cumpliendo todo lo demás de esta guía.
+  a propósito («ejque», «frejca», «pa») salvo en palabras y frases hechas de esta lista
+  («No ni ná», «espachurrao», «alampao», «empancinao»…).
+- Las palabras que describen mal a alguien («cansaliebres», «desaborío») solo se usan hacia
+  nosotros mismos, en broma, o hacia un aparato o una situación; nunca hacia el lector ni
+  hacia otra persona o pueblo. Ejemplo: «Ya sabemos que somos unos cansaliebres con la fibra, pero mírate la cobertura».
+- Con tanta palabra, el texto sigue respetando el límite de 120 palabras y todo lo demás de
+  esta guía: la palabra no sustituye a los datos.
+
+Ejemplo de referencia (buscador de cobertura):
+
+> ¿Que si llega la fibra a tu calle? Lo sabes en un momentico 🏡
+> Te vas a eyfiber.es, pones calle, número y pueblo, y le das a «Comprobar cobertura». Son
+> 10 segundos, gratis y sin dejar ni una miaja de datos. ¿Que si es fácil? ¡No ni ná!
+> Estamos en 69 localidades de Albacete, Cuenca, Castellón y Valencia, de Ledaña a
+> Villarrobledo o Hellín. Y si te sale que sí, nosotros nos encargamos de todo: router,
+> instalación y demás apechusques. Sin pitostes ni zapatiestas.
+> Ea, no te quedes ahí espachurrao en el sofá dándole vueltas, que luego a luego se te
+> olvida: eyfiber.es
 
 ### Se pueden usar
 
@@ -131,13 +154,24 @@ Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
 | Asorratao | Aturdido por el calor | Verano. |
 | Guíscano | Níscalo (seta) | Otoño, salidas al campo. |
 | En un momentico | Enseguida, en nada | «¿Que si llega la fibra a tu calle? Lo sabes en un momentico». |
+| Espachurrao | Aplastado, chafado | «No te quedes ahí espachurrao en el sofá dándole vueltas». |
+| Palique | Charla | «Para el palique con la familia de fuera, videollamada». |
+| Achicharrao | Acalorado, sudando al sol | Verano, el campo, la siega. |
+| Rechisquero | Calor sofocante del sol | Verano. |
+| Cachulera | Casa | «Fibra hasta tu cachulera». |
+| Placeta | Plaza pequeña | «Lo que se cuenta en la placeta». |
+| Nene / nena | Niño / niña | «Los nenes jugando online». |
+| Rosetas | Palomitas | Tele, cine en casa. |
+| Morrón | Cerro alto en mitad del llano | Paisaje, cobertura en el campo. |
+| Cansaliebres | Pesado que no para de insistir | Solo hacia nosotros: «Ya sabemos que somos unos cansaliebres con la fibra…». |
+| Desaborío | Soso, desagradecido | Solo hacia aparatos o nosotros: «el router desaborío del cajón». |
 | Mismico | Exactamente el mismo | «El mismico número de siempre, en una línea nueva». |
 
 ### No se usan
 
 - «Pijo» y sus expresiones («¡Pero pijo!», «¡Y un pijo!», «¡Vete al pijo!», «Pijcas pajas»):
   suenan malsonantes fuera de confianza.
-- Palabras que describen mal a una persona: mangurrián, zamarro, rabiseco, rebordecío, bacín,
+- Palabras que describen mal a una persona (salvo cansaliebres y desaborío, con la regla de arriba): mangurrián, zamarro, rabiseco, rebordecío, bacín,
   golismero, samugo, cansino, churretoso, asobinao.
 - «Acho»: es más de Murcia que de aquí.
 - «Acapullosacao», por cómo suena.
