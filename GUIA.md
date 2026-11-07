@@ -108,9 +108,14 @@ Cómo usarlas:
 - Siempre con cariño, nunca para reírse de cómo habla nadie. No escribir la pronunciación
   a propósito («ejque», «frejca», «pa») salvo en palabras y frases hechas de esta lista
   («No ni ná», «espachurrao», «alampao», «empancinao»…).
-- Las palabras que describen mal a alguien («cansaliebres», «desaborío») solo se usan hacia
-  nosotros mismos, en broma, o hacia un aparato o una situación; nunca hacia el lector ni
-  hacia otra persona o pueblo. Ejemplo: «Ya sabemos que somos unos cansaliebres con la fibra, pero mírate la cobertura».
+- Seña de identidad: Ey.fiber no es un cansaliebres. No estamos to el día molestando; si
+  somos cansinos, es para irnos a almorzar. Se puede usar en broma de vez en cuando, por
+  ejemplo: «Nosotros no te cansineamos», «Lo nuestro no es ser unos cansaliebres, to el día
+  molestando», «Cansinos, sí, pero para irnos a almorzar». Sin convertirlo en una promesa
+  concreta que la guía no recoja (nada de «nunca te llamamos» ni similares).
+- Las palabras que describen mal a alguien («cansaliebres», «cansino», «cansinear»,
+  «desaborío») solo se usan hacia nosotros mismos, en broma, o hacia un aparato o una
+  situación; nunca hacia el lector ni hacia otra persona o pueblo.
 - Con tanta palabra, el texto sigue respetando el límite de 120 palabras y todo lo demás de
   esta guía: la palabra no sustituye a los datos.
 
@@ -163,7 +168,10 @@ Ejemplo de referencia (buscador de cobertura):
 | Nene / nena | Niño / niña | «Los nenes jugando online». |
 | Rosetas | Palomitas | Tele, cine en casa. |
 | Morrón | Cerro alto en mitad del llano | Paisaje, cobertura en el campo. |
-| Cansaliebres | Pesado que no para de insistir | Solo hacia nosotros: «Ya sabemos que somos unos cansaliebres con la fibra…». |
+| Cansaliebres | Pesado que no para de insistir | Solo hacia nosotros: «Lo nuestro no es ser unos cansaliebres, to el día molestando». |
+| Cansino / cansinear | Pesado / dar la lata | Solo hacia nosotros: «Nosotros no te cansineamos». «Cansinos, sí, pero para irnos a almorzar». |
+| To el día | Todo el día | Frase hecha: «to el día molestando», «to el día enganchao al móvil». |
+| Almorzar / el almuerzo | Comida de media mañana | «Cansinos, sí, pero para irnos a almorzar». Bocadillo, campo, obra, cooperativa. |
 | Desaborío | Soso, desagradecido | Solo hacia aparatos o nosotros: «el router desaborío del cajón». |
 | Mismico | Exactamente el mismo | «El mismico número de siempre, en una línea nueva». |
 
@@ -171,8 +179,8 @@ Ejemplo de referencia (buscador de cobertura):
 
 - «Pijo» y sus expresiones («¡Pero pijo!», «¡Y un pijo!», «¡Vete al pijo!», «Pijcas pajas»):
   suenan malsonantes fuera de confianza.
-- Palabras que describen mal a una persona (salvo cansaliebres y desaborío, con la regla de arriba): mangurrián, zamarro, rabiseco, rebordecío, bacín,
-  golismero, samugo, cansino, churretoso, asobinao.
+- Palabras que describen mal a una persona (salvo cansaliebres, cansino y desaborío, con la regla de arriba): mangurrián, zamarro, rabiseco, rebordecío, bacín,
+  golismero, samugo, churretoso, asobinao.
 - «Acho»: es más de Murcia que de aquí.
 - «Acapullosacao», por cómo suena.
 - Los dichos y apodos entre pueblos («En Fuentealbilla, raneros», «De Abengibre, Dios nos
