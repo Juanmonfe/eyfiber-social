@@ -130,6 +130,7 @@ Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
 | Custrío | Reseco, agrietado | Invierno, frío. |
 | Asorratao | Aturdido por el calor | Verano. |
 | Guíscano | Níscalo (seta) | Otoño, salidas al campo. |
+| En un momentico | Enseguida, en nada | «¿Que si llega la fibra a tu calle? Lo sabes en un momentico». |
 | Mismico | Exactamente el mismo | «El mismico número de siempre, en una línea nueva». |
 
 ### No se usan
