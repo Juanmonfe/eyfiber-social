@@ -13,3 +13,4 @@ Una línea por publicación programada. La tarea semanal la consulta para no rep
 | 2026-11-02 10:10 | Para tu casa | Luz: revisión gratis de la factura, precio fijo, 100 % renovable | Tu factura de la luz, revisada gratis. | imagenes/2026-11-02-revision-factura-luz.png |
 | 2026-11-04 12:10 | Para tu empresa | Red de alta disponibilidad en una hacienda (cubre la noticia «Cuando quedarse sin Internet no es una opción: una hacienda de Pozo Cañada…», 28/10/2026) | Seis accesos a internet y una sola red. | imagenes/2026-11-04-hacienda-red-respaldo.png |
 | 2026-11-06 10:10 | Cerca de ti | eSIM de viaje desde la app Mi línea | ¿Acabas de aterrizar y no tienes datos? | propias/esim-viaje-cuadrada-1080x1080-v2.png |
+| 2026-11-07 12:00 | Cerca de ti | Buscador de cobertura de la web (primera publicación con estilo manchego; imagen con captura de la web) | ¿Llega la fibra a tu calle? | imagenes/2026-11-07-fibra-tu-calle.png |
