@@ -92,6 +92,58 @@ Web renovada en octubre de 2026. Lo que se puede hacer en ella, para usar como l
 - Sin tecnicismos salvo en publicaciones para empresas, y aun así explicados.
 - Nada de política, religión, fútbol ni temas polémicos. No mencionar a la competencia.
 
+## Habla de Albacete y La Manchuela
+
+Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
+- Como mucho una o dos por publicación, y no en todas: más o menos en una de cada dos.
+- Que se entienda igual aunque el lector no conozca la palabra, por el contexto.
+- Siempre con cariño, nunca para reírse de cómo habla nadie. No escribir la pronunciación
+  a propósito («ejque», «frejca», «cansao») salvo en frases hechas como «No ni ná».
+- En las publicaciones para empresas, mejor ninguna o solo una suave («Ea», «Miaja»).
+- La palabra no sustituye a los datos: el texto sigue cumpliendo todo lo demás de esta guía.
+
+### Se pueden usar
+
+| Palabra o expresión | Significado | Ejemplo para Ey.fiber |
+|---|---|---|
+| Ea | Vale para casi todo | «Ea, pues ya tienes fibra en casa». |
+| Odo | Sorpresa | «¡Odo, qué rápido carga!» |
+| Acho | Para llamar a alguien | «Acho, ¿has mirado la cobertura en tu calle?» |
+| Miaja | Un poquito | «Una miaja de paciencia y te lo dejamos funcionando». |
+| Bonico | Bonito, cariñoso | «Qué bonico es llegar a la casa rural y que el wifi vaya bien». |
+| No ni ná | ¡Pues claro que sí! | «¿Que si llegamos a tu pueblo? ¡No ni ná!» |
+| Muchismo / buenismo | Muchísimo / buenísimo | «Se nota muchismo». |
+| A cascoporro | En gran cantidad | «Gigas a cascoporro». |
+| Alampao | Con mucha hambre | Para recetas, ferias o comidas familiares. |
+| Empancinao | Que ha comido demasiado | Para fiestas y comidas de Navidad. |
+| Apechusques | Trastos, cacharros | «Router, cables y demás apechusques: los ponemos nosotros». |
+| Leja | Estante, balda | «El router, en la leja de arriba, no dentro del mueble». |
+| Pitoste / zapatiesta | Lío, follón | «Cambiar de compañía sin pitostes». |
+| Casquera | Charla larga | «Para la casquera con la familia de fuera, videollamada sin cortes». |
+| Dar la vara | Insistir, molestar | «Sin llamadas que te den la vara». |
+| Luego a luego | Después, más tarde | «No lo dejes para luego a luego». |
+| Con to y con eso | A pesar de todo | Para cerrar una idea. |
+| Eslomao | Agotado de trabajar | Para el campo, la vendimia o la cooperativa. |
+| Gambitero | Muy fiestero | Para ferias y fiestas del pueblo. |
+| Mocholá | Cabezadita, siesta | «Mientras echas la mocholá, la serie se descarga». |
+| Rebequica | Chaqueta fina para cuando refresca | Otoño y primavera. |
+| Sagato | Olor a humo o lumbre en la ropa | Invierno, chimenea, casa del pueblo. |
+| Custrío | Reseco, agrietado | Invierno, frío. |
+| Asorratao | Aturdido por el calor | Verano. |
+| Guíscano | Níscalo (seta) | Otoño, salidas al campo. |
+| Mismico | Exactamente el mismo | «El mismico número de siempre, en una línea nueva». |
+
+### No se usan
+
+- «Pijo» y sus expresiones («¡Pero pijo!», «¡Y un pijo!», «¡Vete al pijo!», «Pijcas pajas»):
+  suenan malsonantes fuera de confianza.
+- Palabras que describen mal a una persona: mangurrián, zamarro, rabiseco, rebordecío, bacín,
+  golismero, samugo, cansino, churretoso, asobinao.
+- «Acapullosacao», por cómo suena.
+- Los dichos y apodos entre pueblos («En Fuentealbilla, raneros», «De Abengibre, Dios nos
+  libre», etc.): aunque sean folclore, a alguien le pueden sentar mal.
+- Palabras de golpes, caídas o males («costalá», «tabanazo», «apechusque» como mal repentino).
+
 ## Noticias nuevas en la web
 
 Cada semana, antes de elegir temas, mira eyfiber.es/noticias (con WebFetch). Si hay una
