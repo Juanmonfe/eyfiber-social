@@ -108,7 +108,6 @@ Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
 |---|---|---|
 | Ea | Vale para casi todo | «Ea, pues ya tienes fibra en casa». |
 | Odo | Sorpresa | «¡Odo, qué rápido carga!» |
-| Acho | Para llamar a alguien | «Acho, ¿has mirado la cobertura en tu calle?» |
 | Miaja | Un poquito | «Una miaja de paciencia y te lo dejamos funcionando». |
 | Bonico | Bonito, cariñoso | «Qué bonico es llegar a la casa rural y que el wifi vaya bien». |
 | No ni ná | ¡Pues claro que sí! | «¿Que si llegamos a tu pueblo? ¡No ni ná!» |
@@ -139,6 +138,7 @@ Palabras y expresiones de aquí para dar cercanía. Cómo usarlas:
   suenan malsonantes fuera de confianza.
 - Palabras que describen mal a una persona: mangurrián, zamarro, rabiseco, rebordecío, bacín,
   golismero, samugo, cansino, churretoso, asobinao.
+- «Acho»: es más de Murcia que de aquí.
 - «Acapullosacao», por cómo suena.
 - Los dichos y apodos entre pueblos («En Fuentealbilla, raneros», «De Abengibre, Dios nos
   libre», etc.): aunque sean folclore, a alguien le pueden sentar mal.
