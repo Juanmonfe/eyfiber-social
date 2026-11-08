@@ -15,3 +15,5 @@ Una línea por publicación programada. La tarea semanal la consulta para no rep
 | 2026-11-06 10:10 | Cerca de ti | eSIM de viaje desde la app Mi línea | ¿Acabas de aterrizar y no tienes datos? | propias/esim-viaje-cuadrada-1080x1080-v2.png |
 | 2026-11-07 12:00 | Para tu casa | Atención por WhatsApp (todos los días 8-22), con la broma de no ser unos cansaliebres; imagen de móvil con conversación de ejemplo | ¿Dudas? Pregúntanos por WhatsApp. | imagenes/2026-11-07-whatsapp-dudas.png |
 | 2026-11-09 10:10 | Cerca de ti | Buscador de cobertura de la web (estilo manchego; imagen con captura de la web en el móvil) | ¿Llega la fibra a tu calle? | imagenes/2026-11-07-fibra-tu-calle.png |
+| 2026-11-11 12:10 | Para tu empresa | Telefonía IP y centralita en la nube para empresas (polígonos, agroalimentario) | La centralita de tu empresa, ahora en la nube. | imagenes/2026-11-11-centralita-nube.png |
+| 2026-11-13 10:10 | Para tu alojamiento | EyStay: accesos sin llaves y check-in, con wifi, TV y domótica en un solo soporte | Check-in sin llaves para tu alojamiento. | imagenes/2026-11-13-checkin-sin-llaves.png |
